@@ -4,7 +4,7 @@ A modern, feature-rich contact list application built with React, featuring a be
 
 ## 🌐 Live Demo
 
-**Deployed Application:** [Coming Soon - Deploy on Vercel]
+**Deployed Application:** (https://vaibhav-tria-s-assignment.vercel.app/)
 
 ## ✨ Features
 
